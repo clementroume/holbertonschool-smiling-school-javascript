@@ -72,6 +72,7 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 [Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
 
-# Author:
+# Author
 
 Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
+Clément Roume: [clementroume](https://github.com/clementroume)
